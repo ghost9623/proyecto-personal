@@ -1,0 +1,85 @@
+body{
+    padding: 0px;
+    margin: 0px;
+   text-align: center;    
+
+}
+
+.uno
+{
+   border: 1px solid black;
+   background: #2c3e50;
+   font-size: 30px;
+   color: white;
+   text-align: left;
+}
+.dos li 
+{
+    list-style: none;
+    padding: 4px;
+    font: bold 13px verdana;
+   
+    display: inline-block;
+}
+
+a
+{
+    color: white;
+}
+
+.dos{
+    background: #485460;
+    padding: 10px;
+    text-align: left;
+}
+h1{
+ font-family: arial;   
+}
+
+.zero
+{
+    border: 1px solid black;
+}
+.tres
+{
+    margin: 20px;
+    width: 60%;
+    
+    float: left;
+ 
+}
+section article 
+{
+border: 1px solid black;
+}
+
+article
+{
+    background: #dfe6e9;
+    border:1px solid white ;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.cuatro
+{
+    width: 20%;
+   
+    float: left;
+    
+    margin: 20px 0;
+}
+
+.pie
+{    padding: 35px;
+    border: 1px solid black;
+    font-size: 30px;
+    background: #bdc3c7;
+    font-family: georgia;
+    clear: both;
+}
+
+img
+{
+    width: 100px;
+}
